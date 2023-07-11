@@ -1,0 +1,23 @@
+{
+  "name": "js-jest",
+  "version": "1.0.0",
+  "description": "JS quick starter project with jest",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobywoollaston/kata-starter-projects.git"
+  },
+  "keywords": [
+    "kata"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobywoollaston/kata-starter-projects/issues"
+  },
+  "dependencies": {
+    "jest": "^29.6.1"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "js-jest",
+  "version": "1.0.0",
+  "description": "JS quick starter project with vitest",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobywoollaston/kata-starter-projects.git"
+  },
+  "keywords": [
+    "kata"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobywoollaston/kata-starter-projects/issues"
+  },
+  "devDependencies": {
+    "vite": "^4.4.3",
+    "vitest": "^0.33.0"
+  }
+}

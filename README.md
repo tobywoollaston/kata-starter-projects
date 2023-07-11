@@ -1,2 +1,2 @@
 # kata-starter-projects
- Common starter projects for creating katas
+ Quick starter projects for katas

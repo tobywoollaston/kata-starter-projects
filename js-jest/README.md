@@ -1,4 +1,4 @@
-# Gilded Rose
+# Javascript with Jest
 
 This is the quick starter project for Katas in JavaScript with Jest
 
